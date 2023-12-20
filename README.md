@@ -50,7 +50,14 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 - Total Pizzas sold by Pizza Category
 - Top 5 Best Seller by Revenue, Total Quantity and Total Orders
 - Bottom 5 Best Seller by Revenue, Total Quantity and Total Orders
-!(https://github.com/gauravm1807/Pizza-Sales-Insights/blob/main/image1.png)
+
+
+
+![image1](https://github.com/gauravm1807/Pizza-Sales-Insights/assets/92421639/ca985c33-854f-4a28-b7b6-2f39e57deded)
+
+![image2](https://github.com/gauravm1807/Pizza-Sales-Insights/assets/92421639/fe42dcac-cf49-437f-9aa4-b071027079d5)
+
+
 ## Insights
 - Busiest days and time
   - Orders are highest on weekends
