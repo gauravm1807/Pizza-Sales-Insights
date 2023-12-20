@@ -53,19 +53,19 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 
 ## Insights
 - Busiest days and time
-- - Orders are highest on weekends
-- - There are maximum orders in months of July and May
+  - - Orders are highest on weekends
+  - - There are maximum orders in months of July and May
 - Sale Performance
-- - Classic Category contributes to maximum sales & total orders
-- - Large size pizza contributes too maximum sales
+  - - Classic Category contributes to maximum sales & total orders
+  - - Large size pizza contributes too maximum sales
 - Best Sellers
-- - The Thai Chicken Pizza Contributes to maximum Revenue
-- - The Classic Deluxe Pizza Contributes to maximum Total Quantities
-- - The Classic Deluxe Pizza Contributes to maximum Total Orders
+  - - The Thai Chicken Pizza Contributes to maximum Revenue
+  - - The Classic Deluxe Pizza Contributes to maximum Total Quantities
+  - - The Classic Deluxe Pizza Contributes to maximum Total Orders
 - Worst Sellers
-- - The Brie Carre Pizza Contributes to minimum Revenue
-- - The Brie Carre Pizza Contributes to minimum Total Quantities
-- - The Brie Carre Pizza Contributes to minimum Total Orders
+  - - The Brie Carre Pizza Contributes to minimum Revenue
+  - - The Brie Carre Pizza Contributes to minimum Total Quantities
+  - - The Brie Carre Pizza Contributes to minimum Total Orders
 
 ## Dependencies
 - SQL database or data source
