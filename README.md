@@ -23,10 +23,43 @@ Once the data is prepared, various SQL queries are written to perform in-depth d
 - Calculating average order values.
 - Assessing the performance of individual restaurant locations.
 
-###4. Power BI Visualization
-Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
+## KPI's Requirement
+Need to analyze key indicators for our pizza sales data to gain insights into our business performance.
 
-- Bar charts and pie charts displaying sales by product category.
-- Time series charts illustrating sales trends.
-- Geographic maps showing the distribution of restaurant locations.
-- Dashboards summarizing key performance indicators (KPIs).
+- Total Revenue
+- Average Order value
+- Total Pizzas sold
+- Total Orders
+- Average Pizzas per Order
+- 
+## Chart's Requirement
+Visualize various aspects of our pizza sales data to gain insights and understand key trends.
+
+- Daily Trend for Total Orders
+- Monthly Trend for Total Orders
+- Percentage of Sales by Pizza Category
+- Percentage of Sales by Pizza Size
+- Total Pizzas sold by Pizza Category
+- Top 5 Best Seller by Revenue, Total Quantity and Total Orders
+- Bottom 5 Best Seller by Revenue, Total Quantity and Total Orders
+
+## Insights
+- Busiest days and time
+-- Orders are highest on weekends
+-- There are maximum orders in months of July and May
+- Sale Performance
+-- Classic Category contributes to maximum sales & total orders
+-- Large size pizza contributes too maximum sales
+- Best Sellers
+-- The Thai Chicken Pizza Contributes to maximum Revenue
+-- The Classic Deluxe Pizza Contributes to maximum Total Quantities
+-- The Classic Deluxe Pizza Contributes to maximum Total Orders
+- Worst Sellers
+-- The Brie Carre Pizza Contributes to minimum Revenue
+-- The Brie Carre Pizza Contributes to minimum Total Quantities
+-- The Brie Carre Pizza Contributes to minimum Total Orders
+
+## Dependencies
+- SQL database or data source
+- Excel
+- Power BI Desktop
