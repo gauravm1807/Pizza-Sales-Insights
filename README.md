@@ -23,6 +23,14 @@ Once the data is prepared, various SQL queries are written to perform in-depth d
 - Calculating average order values.
 - Assessing the performance of individual restaurant locations.
 
+### 4. Power BI Visualization
+Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
+
+- Bar charts and pie charts displaying sales by product category.
+- Time series charts illustrating sales trends.
+- Geographic maps showing the distribution of restaurant locations.
+- Dashboards summarizing key performance indicators (KPIs).
+
 ## KPI's Requirement
 Need to analyze key indicators for our pizza sales data to gain insights into our business performance.
 
