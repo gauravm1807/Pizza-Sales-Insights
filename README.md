@@ -53,7 +53,7 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 
 ## Insights
 - Busiest days and time
--- Orders are highest on weekends
+- - Orders are highest on weekends
 -- There are maximum orders in months of July and May
 - Sale Performance
 -- Classic Category contributes to maximum sales & total orders
